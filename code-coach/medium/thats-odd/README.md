@@ -11,7 +11,7 @@ The first input denotes the length of the list **(N).** The next **N** lines con
 An integer that represents the sum of only the even numbers in the list.
 
 ### Sample Input:
-9 \n
+9/n
 1\n
 2\n
 3\n
